@@ -4,7 +4,7 @@ Simple ESP32 project including a 7.5 inch Waveshare epaper display.
 
 Aim is to just have a photo frame like look and display useful information - e.g. weather etc.
 
-![View of project](img/waveshare.jpg)
+![View of project](Software/img/waveshare.jpg)
 
 I did look at installing ESPHome etc on it to show information from my HomeAssistant but decided I wanted to have richer (developer) control - but maybe I will come back to this idea at some point.
 
