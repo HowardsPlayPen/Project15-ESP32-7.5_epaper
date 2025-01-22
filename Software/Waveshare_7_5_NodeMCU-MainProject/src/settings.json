@@ -4,7 +4,7 @@
     
     "mqtt_server": "***", 
 
-    "mqtt_user" : "iot", // Again, this is hardwired to an MQTT user on Pidesktop1
+    "mqtt_user" : "iot", // Again, this is hardwired to an MQTT user on my network
     "mqtt_password": "***",
     
     "mqtt_topicOUT": "/esp32/Temperature/",
