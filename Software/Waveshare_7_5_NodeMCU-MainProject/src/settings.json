@@ -1,0 +1,15 @@
+{
+    "ssid": "***",
+    "password": "***",
+    
+    "mqtt_server": "***", 
+
+    "mqtt_user" : "iot", // Again, this is hardwired to an MQTT user on Pidesktop1
+    "mqtt_password": "***",
+    
+    "mqtt_topicOUT": "/esp32/Temperature/",
+    "mqtt_port":  "1883",
+
+    "ota_user": "***", // This is for the webpage on http://iotaddr/update
+    "ota_password": "***"       
+}
